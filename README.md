@@ -34,11 +34,10 @@ To better understand what we are building, please review this [introductory blog
 The following Dandelion apps are eligible for review:
 - [Redemptions](https://github.com/1Hive/redemptions-app/)
 - [Token Request](https://github.com/1Hive/token-request-app)
-
-The following Dandelion apps will be eligible for review in the near future:
 - [Time Lock](https://github.com/1Hive/time-lock-app)
 - [Delay](https://github.com/1Hive/delay-app)
-- [Dissent Voting](https://github.com/1Hive/dissent-voting-app)
+- [Dissent Oracle and Dandelion Voting](https://github.com/1Hive/dissent-voting-app)
+- [Token Balance Orace](https://github.com/1Hive/token-oracle)
 - [Dandelion Org Template](https://github.com/1Hive/dandelion-org)
 
 <br />
